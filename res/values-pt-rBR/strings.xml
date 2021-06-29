@@ -317,7 +317,7 @@
     <string name="security_passwords_title" msgid="4154420930973818581">"Privacidade"</string>
     <string name="disabled_by_administrator_summary" msgid="5424846182313851124">"Indisponível"</string>
     <string name="security_status_title" msgid="6958004275337618656">"Status da segurança"</string>
-    <string name="security_dashboard_summary_face" msgid="4198949293847206382">"Bloqueio de tela, desbloqueio facial"</string>
+    <string name="security_dashboard_summary_face" msgid="4198949293847206382">"Bloqueio de tela, Desbloqueio facial"</string>
     <string name="security_dashboard_summary" msgid="8750183806533140464">"Bloqueio de tela, impressão digital"</string>
     <string name="security_dashboard_summary_no_fingerprint" msgid="1044589595710115123">"Bloqueio de tela"</string>
     <string name="security_settings_face_preference_summary" msgid="6675126437396914838">"Rosto adicionado"</string>
