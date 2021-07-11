@@ -32,7 +32,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginEnd="16dp"
         android:paddingTop="12dp"
-        android:paddingBottom="26dp">
+        android:paddingBottom="28dp">
 
         <TextView
             android:layout_width="wrap_content"
@@ -40,7 +40,7 @@
             android:text="@string/settings_label"
             android:textColor="?android:attr/textColorPrimary"
             android:textSize="34sp"
-            style="@style/TextAppearance.Widget.AppCompat.Toolbar.Title" />
+            style="@style/TextAppearance.SearchBar" />
 
         <Space
             android:layout_width="0dp"
