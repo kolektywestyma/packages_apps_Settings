@@ -15,20 +15,20 @@
 <resources>
 
    <!-- DashBoard icon Colors -->
-    <color name="dashboard_sos_privacy">#00000000</color>
-    <color name="dashboard_sos_network">#00000000</color>
-    <color name="dashboard_sos_devices">#00000000</color>
-    <color name="dashboard_sos_apps">#00000000</color>
-    <color name="dashboard_sos_info">#00000000</color>
-    <color name="dashboard_sos_location">#00000000</color>
-    <color name="dashboard_sos_battery">#00000000</color>
-    <color name="dashboard_sos_display">#00000000</color>
-    <color name="dashboard_sos_sound">#00000000</color>
-    <color name="dashboard_sos_storage">#00000000</color>
-    <color name="dashboard_sos_security">#00000000</color>
-    <color name="dashboard_sos_accounts">#00000000</color>
-    <color name="dashboard_sos_accessibility">#00000000</color>
-    <color name="dashboard_sos_about">#00000000</color>
-    <color name="dashboard_sos_google">#00000000</color>
-    <color name="dashboard_sos_wellbeing">#00000000</color>
+    <color name="dashboard_sos_privacy">#3BE57373</color>
+    <color name="dashboard_sos_network">#3B42A5F5</color>
+    <color name="dashboard_sos_devices">#3BFFCA28</color>
+    <color name="dashboard_sos_apps">#3BFF7043</color>
+    <color name="dashboard_sos_info">#3B7E57C2</color>
+    <color name="dashboard_sos_location">#3B42A5F5</color>
+    <color name="dashboard_sos_battery">#3B7F8FA6</color>
+    <color name="dashboard_sos_display">#3B66BB6A</color>
+    <color name="dashboard_sos_sound">#3B8D6E63</color>
+    <color name="dashboard_sos_storage">#3B7E57C2</color>
+    <color name="dashboard_sos_security">#3BFFCA28</color>
+    <color name="dashboard_sos_accounts">#3BFF7043</color>
+    <color name="dashboard_sos_accessibility">#3B7F8FA6</color>
+    <color name="dashboard_sos_about">#3BE57373</color>
+    <color name="dashboard_sos_google">#3B8D6E63</color>
+    <color name="dashboard_sos_wellbeing">#3B66BB6A</color>
 </resources> 
