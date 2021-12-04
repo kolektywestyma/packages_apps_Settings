@@ -32,8 +32,6 @@
     <string name="color_mode_balance_blue">Intensidad azul</string>
     <string name="keywords_color_balance">color, balance de colores, corrección de color, rojo, verde, azul, LiveDisplay</string>
     <string name="build_date">Fecha de compilación</string>
-    <string name="kraken_version">Versión de Kraken</string>
-    <string name="about_device_name">Dispositivo</string>
     <string name="double_tap_sleep_gesture_title">Doble toque para suspender</string>
     <string name="double_tap_sleep_gesture_summary">Doble toque en la barra de estado para suspender el dispositivo</string>
     <string name="tap_to_wake_summary_kraken">Doble toque en la pantalla de bloqueo para suspender el dispositivo</string>
@@ -115,7 +113,4 @@
     <string name="battery_stats_message">Las estadísticas del historial de la batería van a ser reiniciadas</string>
     <string name="use_old_mobiletype_title">Icono pequeño de tipo de red móvil</string>
     <string name="use_old_mobiletype_summary">Muestra el icono del tipo de señal en la parte superior del indicador de señal</string>
-    <string name="navbar_length">Tamaño de la barra de gestos</string>
-    <string name="hidden_label">Oculto</string>
-    <string name="long_label">Largo</string>
 </resources>

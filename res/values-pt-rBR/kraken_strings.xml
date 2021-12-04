@@ -32,8 +32,6 @@
     <string name="color_mode_balance_blue">Nível de azul</string>
     <string name="keywords_color_balance">cor, balanço de cores, correção de cor, vermelho, verde, azul, LiveDisplay</string>
     <string name="build_date">Data da compilação</string>
-    <string name="kraken_version">Versão Kraken</string>
-    <string name="about_device_name">Dispositivo</string>
     <string name="double_tap_sleep_gesture_title">Toque para desativar</string>
     <string name="double_tap_sleep_gesture_summary">Toque duas vezes em qualquer lugar da barra de status para desativar a tela</string>
     <string name="tap_to_wake_summary_kraken">Toque duas vezes em qualquer parte da tela para ativar o dispositivo</string>
@@ -115,7 +113,4 @@
     <string name="battery_stats_message">As estatísticas do histórico da bateria serão redefinidas</string>
     <string name="use_old_mobiletype_title">Ícones de redes móveis pequenos</string>
     <string name="use_old_mobiletype_summary">Mostrar o ícone móvel no topo do indicador de sinal</string>
-    <string name="navbar_length">Tamanho da barra de gestos</string>
-    <string name="hidden_label">Oculto</string>
-    <string name="long_label">Longo</string>
 </resources>

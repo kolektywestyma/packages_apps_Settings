@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2021 The Kraken Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="device_info_protected_single_press">Klepnutím zobrazit informace</string>
+    <string name="category_name_refresh_rate">Obnovovací frekvence</string>
+    <string name="min_refresh_rate_title">Minimální obnovovací frekvence</string>
+    <string name="max_refresh_rate_title">Maximální obnovovací frekvence</string>
+    <string name="battery_saver_refresh_rate_title">Snížit obnovovací frekvenci</string>
+    <string name="battery_saver_refresh_rate_summary">Když je zapnut spořič baterie, použít obnovovací frekvenci 60 Hz pro úsporu energie</string>
+    <string name="volume_link_notification_title">Sjednotit hlasitosti vyzvánění a oznámení</string>
+    <string name="three_finger_gesture">Snímek obrazovky třemi prsty</string>
+    <string name="three_finger_gesture_summary">Přejetím dolů třemi prsty pořídit snímek obrazovky</string>
+    <string name="screenshot_shutter_sound_title">Zvuk při snímku obrazovky</string>
+    <string name="global_actions_advanced_reboot_title">Povolit rozšířený restart</string>
+    <string name="global_actions_advanced_reboot_summary">V menu napájení zobrazit možnosti pro režim recovery a bootloader</string>
+    <string name="color_mode_balance_category">Vyvážení barev</string>
+    <string name="color_mode_balance_red">Červená</string>
+    <string name="color_mode_balance_green">Zelená</string>
+    <string name="color_mode_balance_blue">Modrá</string>
+    <string name="keywords_color_balance">barvy, vyvážení barev, korekce barev, červená, zelená, modrá, LiveDisplay</string>
+    <string name="build_date">Datum sestavení</string>
+    <string name="double_tap_sleep_gesture_title">Klepnutím uspat</string>
+    <string name="double_tap_sleep_gesture_summary">Dvojí poklepání kdekoliv na stavový řádek uvede zařízení do režimu spánku</string>
+    <string name="tap_to_wake_summary_kraken">Dvojitým klepnutím kamkoli na obrazovku zařízení probudíte nebo uspíte</string>
+    <string name="prevent_ringing_option_cycle">Přepínání mezi režimy</string>
+    <string name="prevent_ringing_option_cycle_summary">Zap. (přepínání mezi režimy)</string>
+    <string name="volume_button_music_control_title">Ovládání přehrávání</string>
+    <string name="volume_button_music_control_summary">Když je obrazovka vypnutá, dlouhý stisk tlačítka hlasitosti posune na další skladbu</string>
+    <string name="volume_rocker_wake_title">Probudit tlačítky hlasitosti</string>
+    <string name="volume_rocker_wake_summary">Probudit zařízení stisknutím tlačítek hlasitosti</string>
+    <string name="incall_vibration_category">Možnosti vibrací při volání</string>
+    <string name="incall_vibrate_connect_title">Zavibrovat při spojení</string>
+    <string name="incall_vibrate_call_wait_title">Zavibrovat při dalším hovoru</string>
+    <string name="incall_vibrate_disconnect_title">Zavibrovat při odpojení</string>
+    <string name="statusbar_items_title">Položky stavového řádku</string>
+    <string name="customization_category_title">Přizpůsobení</string>
+    <string name="combined_status_bar_signal_icons">Kombinované ikony signálu</string>
+    <string name="combined_status_bar_signal_icons_summary">Povolit kombinované ikony signálu ve stavovém řádku. Vyžaduje restart SystemUI nebo restart zařízení</string>
+    <string name="notification_sound_vib_screen_on_title">Obtěžující oznámení</string>
+    <string name="notification_sound_vib_screen_on_summary">Přehrát zvuk a vibrovat při přijetí oznámení, když je obrazovka zapnutá</string>
+    <string name="less_boring_heads_up_title">Méně obtěžující plovoucí oznámení</string>
+    <string name="less_boring_heads_up_summary">Rychle vypne plovoucí oznámení pro všechny aplikace, ale ponechá je zapnuté pro aplikace Telefon a Zprávy</string>
+    <string name="torch_power_button_gesture_title">Přepnutí svítilny při vypnuté obrazovce</string>
+    <string name="torch_power_button_gesture_none">Vypnuto</string>
+    <string name="torch_power_button_gesture_dt">Dvojité stisknutí tlačítka napájení (vypne funkci rychlého otevření fotoaparátu a přidá 170ms zpoždění)</string>
+    <string name="torch_power_button_gesture_lp">Dlouhý stisk tlačítka napájení</string>
+    <string name="battery_style_title">Styl ikony baterie</string>
+    <string name="battery_style_summary">Přizpůsobit styl ikony baterie, skrýt nebo zobrazit procenta</string>
+    <string name="battery_percent_title">Procenta baterie ve stavovém řádku</string>
+    <string name="battery_style_category_title">Ikona baterie</string>
+    <string name="status_bar_battery_style_title">Styl baterie</string>
+    <string name="status_bar_battery_style_icon_portrait">Ikona na výšku (výchozí)</string>
+    <string name="status_bar_battery_style_circle">Kruh</string>
+    <string name="status_bar_battery_style_dotted_circle">Kruh (přerušovaný)</string>
+    <string name="status_bar_battery_style_filled_circle">Kruh (plný)</string>
+    <string name="status_bar_battery_style_text">Text</string>
+    <string name="status_bar_battery_style_hidden">Nezobrazovat</string>
+    <string name="status_bar_battery_percentage_title">Procenta baterie</string>
+    <string name="status_bar_battery_percentage_default">Skryté (výchozí)</string>
+    <string name="status_bar_battery_percentage_text_inside">Uvnitř ikony</string>
+    <string name="status_bar_battery_percentage_text_next">Vedle ikony</string>
+    <string name="qs_show_battery_estimate_title">Odhad výdrže baterie</string>
+    <string name="qs_show_battery_estimate_summary">Zobrazit odhadovanou zbývající dobu výdrže baterie vedle ikony</string>
+    <string name="clocksettings_title">Nastavení hodin</string>
+    <string name="clocksettings_summary">Nastavení hodin ve stavovém řádku</string>
+    <string name="status_bar_clock_date_title">Hodiny a datum</string>
+    <string name="status_bar_clock_date_summary">Přizpůsobte si hodiny a datum ve stavovém řádku</string>
+    <string name="status_bar_clock_title">Nastavení hodin</string>
+    <string name="status_bar_clock_show">Zobrazit hodiny a datum</string>
+    <string name="status_bar_clock_style_title">Styl hodin</string>
+    <string name="status_bar_clock_style_right">Vpravo</string>
+    <string name="status_bar_clock_style_center">Uprostřed</string>
+    <string name="status_bar_clock_style_left">Vlevo</string>
+    <string name="status_bar_date_title">Nastavení data</string>
+    <string name="status_bar_am_pm_title">dop./odp. styl</string>
+    <string name="status_bar_am_pm_info">24-hodinový formát je povolen</string>
+    <string name="status_bar_am_pm_normal">Normální</string>
+    <string name="status_bar_am_pm_small">Malé</string>
+    <string name="status_bar_am_pm_hidden">Skryté (výchozí)</string>
+    <string name="clock_seconds_display">Zobrazovat sekundy</string>
+    <string name="clock_date_display">Datum</string>
+    <string name="clock_date_display_summary">Zobrazit před hodinami vlastní datum</string>
+    <string name="clock_date_display_none">Nezobrazovat</string>
+    <string name="clock_date_display_small">Malá velikost písma</string>
+    <string name="clock_date_display_normal">Normální velikost písma</string>
+    <string name="clock_date_style">Styl data</string>
+    <string name="clock_date_style_normal">Normální</string>
+    <string name="clock_date_style_lowercase">Malá písmena</string>
+    <string name="clock_date_style_uppercase">Velká písmena</string>
+    <string name="clock_date_format_custom">Vlastní formát Java</string>
+    <string name="clock_date_format">Formát data</string>
+    <string name="clock_date_string_edittext_title">Musí být ve formátu například MM/dd/yy</string>
+    <string name="clock_date_string_edittext_summary">Vložte textový řetězec</string>
+    <string name="clock_date_right">Vpravo od času</string>
+    <string name="clock_date_left">Vlevo od času</string>
+    <string name="clock_date_position">Pozice data</string>
+    <string name="proximity_wake_title">Zabránit nechtěnému probuzení</string>
+    <string name="proximity_wake_summary">Kontrolovat senzor přiblížení pro zabránění nechtěného probuzení</string>
+    <string name="battery_stats_reset">Vymazat statistiky</string>
+    <string name="battery_stats_message">Historie statistiky baterie bude vynulovaná</string>
+    <string name="use_old_mobiletype_title">Malý typ ikony mobilní sítě</string>
+    <string name="use_old_mobiletype_summary">Zobrazit typ ikony mobilní sítě v horní části indikátoru signálu</string>
+</resources>
