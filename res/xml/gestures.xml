@@ -99,6 +99,12 @@
         android:fragment="com.android.settings.gestures.AdaptivePlaybackGestureSettings"
         settings:controller="com.android.settings.gestures.AdaptivePlaybackParentPreferenceController" />
 
+    <Preference
+        android:key="volume_button_music_control_sumary"
+        android:title="@string/volume_button_music_control_title"
+        android:fragment="com.android.settings.gestures.VolumeButtonMusicControlGestureSettings"
+        settings:controller="com.android.settings.gestures.VolumeButtonMusicControlPreferenceController" />
+
     <com.kraken.support.preferences.SystemSettingListPreference
         android:key="torch_power_button_gesture"
         android:dialogTitle="@string/torch_power_button_gesture_title"
@@ -125,13 +131,6 @@
         android:title="@string/double_tap_sleep_gesture_title"
         android:summary="@string/double_tap_sleep_gesture_summary"
         android:defaultValue="false" />
-
-    <com.kraken.support.preferences.SystemSettingSwitchPreference
-        android:key="volume_button_music_control"
-        android:title="@string/volume_button_music_control_title"
-        android:summary="@string/volume_button_music_control_summary"
-        android:defaultValue="false"
-        android:dependency="volume_rocker_wake" />
 
     <com.kraken.support.preferences.SystemSettingSwitchPreference
         android:key="volume_rocker_wake"
