@@ -114,4 +114,9 @@
 
     <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
     <string name="connected_tws_device_saved_title">Saved Earbuds</string>
+
+    <!-- Small clock -->
+    <string name="small_clock">Always use small clock</string>
+    <string name="small_clock_summary">Fully disable big clock and always use small clock</string>
+
 </resources>
