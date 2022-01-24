@@ -19,7 +19,8 @@
     xmlns:settings="http://schemas.android.com/apk/res-auto"
     android:key="power_usage_summary_screen"
     android:title="@string/power_usage_summary_title"
-    settings:keywords="@string/keywords_battery">
+    settings:keywords="@string/keywords_battery">pp_usage_footer_preference"
+        android:title="@string
 
     <com.android.settingslib.widget.UsageProgressBarPreference
         android:key="battery_header"
@@ -75,6 +76,12 @@
         android:fragment="com.android.settings.kraken.BatteryLightSettings"
         android:title="@string/battery_light_settings"
         android:summary="@string/battery_light_summary" />
+
+    <com.kraken.support.preferences.SystemSettingSwitchPreference
+        android:key="sensor_block"
+        android:title="@string/sensor_block_title"
+        android:summary="@string/sensor_block_summary"
+        android:defaultValue="true" />
 
     <com.android.settingslib.widget.FooterPreference
         android:key="power_usage_footer"
