@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2022 The Kraken Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="device_info_protected_single_press">Toque para mostrar informações</string>
+    <string name="kraken_stats_title">Kraken Estatísticas</string>
+    <string name="kraken_stats_summary">Apenas contando em quantos dispositivos rodamos</string>
+    <string name="min_refresh_rate_title">Taxa de atualização mínima</string>
+    <string name="max_refresh_rate_title">Taxa de atualização máxima</string>
+    <string name="low_power_refresh_rate_title_custom">Taxa de atualização de baixa energia</string>
+    <string name="volume_link_notification_title">Associar volumes &amp; toque e notificação</string>
+    <string name="three_finger_gesture">Deslize para capturar a tela</string>
+    <string name="three_finger_gesture_summary">Deslizar para baixo com três dedos para capturar tela</string>
+    <string name="screenshot_shutter_sound_title">Som de captura de tela</string>
+    <string name="global_actions_advanced_reboot_title">Habilitar reinicialização avançada</string>
+    <string name="global_actions_advanced_reboot_summary">Mostrar opções para recuperação e bootloader no menu de energia</string>
+    <string name="color_mode_balance_category">Balanço de cor</string>
+    <string name="color_mode_balance_red">Nível de vermelho</string>
+    <string name="color_mode_balance_green">Nível de verde</string>
+    <string name="color_mode_balance_blue">Nível de azul</string>
+    <string name="keywords_color_balance">cor, balanço de cores, correção de cor, vermelho, verde, azul, LiveDisplay</string>
+    <string name="build_date">Data da compilação</string>
+    <string name="double_tap_sleep_gesture_title">Toque para desativar</string>
+    <string name="double_tap_sleep_gesture_summary">Toque duas vezes em qualquer lugar da barra de status para desativar a tela</string>
+    <string name="lockscreen_tweaks_category_title">O que fazer</string>
+    <string name="double_tap_sleep_lockscreen_title">Toque duplo para desligar na tela de bloqueio</string>
+    <string name="volume_button_music_control_title">Controle de reprodução</string>
+    <string name="volume_button_music_control_summary">Quando a tela está desligada, as teclas de volume pressionadas por muito tempo pularão as faixas de música</string>
+    <string name="volume_rocker_wake_title">Acordar com os botões de volume</string>
+    <string name="volume_rocker_wake_summary">Ligue a tela do dispositivo pressionando as teclas de volume</string>
+    <string name="incall_vibration_category">Opções de vibrações em chamada</string>
+    <string name="incall_vibrate_connect_title">Vibrar ao atender</string>
+    <string name="incall_vibrate_call_wait_title">Vibrar na chamada em espera</string>
+    <string name="incall_vibrate_disconnect_title">Vibrar ao desconectar</string>
+    <string name="statusbar_items_title">Ítens da barra de status</string>
+    <string name="customization_category_title">Customização</string>
+    <string name="notification_sound_vib_screen_on_title">Notificações irritantes</string>
+    <string name="notification_sound_vib_screen_on_summary">Tocar som e vibração para notificações quando a tela estiver ligada</string>
+    <string name="less_boring_heads_up_title">Saner Heads-Up</string>
+    <string name="less_boring_heads_up_summary">Desative rapidamente as notificações pop-up para todos os aplicativos, mas mantenha-as ativadas para os aplicativos de discagem e mensagens</string>
+    <string name="power_button_torch_title">Lanterna rápida</string>
+    <string name="power_button_torch_summary">Quando a tela está desligada, o botão liga/desliga pressionado longamente ativará a lanterna</string>
+    <string name="proximity_wake_title">Evitar despertar acidental</string>
+    <string name="proximity_wake_summary">Verificar o sensor de proximidade antes de ligar a tela com toque duplo para despertar</string>
+    <string name="platform_revision">Plataforma</string>
+    <string name="total_ram">RAM total disponível</string>
+    <string name="battery_stats_reset">Zerar as estatísticas</string>
+    <string name="battery_stats_message">As estatísticas do histórico da bateria serão redefinidas</string>
+    <string name="show_navbar_gesture_bar_title">Barra de gestos</string>
+    <string name="show_navbar_gesture_bar_summary">Mostrar barra de gestos na parte inferior da tela</string>
+    <string name="connected_tws_device_saved_title">Fones de ouvido salvos</string>
+    <string name="small_clock">Sempre usar relógio pequeno</string>
+    <string name="small_clock_summary">Desative totalmente o relógio grande e use sempre o relógio pequeno</string>
+    <string name="pitch_colors">Tema preto como breu</string>
+    <string name="pitch_colors_summary">Tema preto como breu para Configurações, SystemUI, etc</string>
+    <string name="adaptive_playback_screen_title">Reprodução adaptável</string>
+    <string name="adaptive_playback_enabled">Usar reprodução adaptável</string>
+    <string name="adaptive_playback_disabled_summary">Desligado</string>
+    <string name="adaptive_playback_timeout_title">Use um tempo limite de</string>
+    <string name="adaptive_playback_timeout_none">Sem tempo limite</string>
+    <string name="adaptive_playback_timeout_none_summary">Ativado (sem limite de tempo)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 segundos</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">Ativado (30 segundos)</string>
+    <string name="adaptive_playback_timeout_1_min">1 minuto</string>
+    <string name="adaptive_playback_timeout_1_min_summary">Ativado (1 minuto)</string>
+    <string name="adaptive_playback_timeout_2_min">2 minutos</string>
+    <string name="adaptive_playback_timeout_2_min_summary">Ativado (2 minutos)</string>
+    <string name="adaptive_playback_timeout_5_min">5 minutos</string>
+    <string name="adaptive_playback_timeout_5_min_summary">Ativado (5 minutos)</string>
+    <string name="adaptive_playback_timeout_10_min">10 minutos</string>
+    <string name="adaptive_playback_timeout_10_min_summary">Ativado (10 minutos)</string>
+    <string name="battery_style_title">Estilo do ícone da bateria</string>
+    <string name="battery_style_summary">Personalizar os ícones da bateria, ocultar ou mostrar percentagem</string>
+    <string name="battery_percent_title">Porcentagem da bateria na barra de status</string>
+    <string name="battery_style_category_title">Ícone da bateria</string>
+    <string name="status_bar_battery_style_title">Estilo de ícone da bateria</string>
+    <string name="status_bar_battery_style_icon_portrait">Ícone em modo retrato (padrão)</string>
+    <string name="status_bar_battery_style_circle">Círculo</string>
+    <string name="status_bar_battery_style_dotted_circle">Círculo (Pontilhado)</string>
+    <string name="status_bar_battery_style_filled_circle">Círculo (Preenchido)</string>
+    <string name="status_bar_battery_style_big_circle">Círculo grande</string>
+    <string name="status_bar_battery_style_big_dotted_circle">Grande círculo pontilhado</string>
+    <string name="status_bar_battery_style_text">Texto</string>
+    <string name="status_bar_battery_style_hidden">Oculto</string>
+    <string name="status_bar_battery_percentage_title">Porcentagem da bateria</string>
+    <string name="status_bar_battery_percentage_default">Oculto (padrão)</string>
+    <string name="status_bar_battery_percentage_text_inside">Dentro do ícone</string>
+    <string name="status_bar_battery_percentage_text_next">Ao lado do ícone</string>
+</resources>
