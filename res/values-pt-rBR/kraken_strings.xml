@@ -99,4 +99,6 @@
     <string name="lockscreen_small_clock_title">Relógio pequeno na tela de bloqueio</string>
     <string name="lockscreen_small_clock_summary">Não mude para o relógio grande quando não houver notificações</string>
     <string name="navbar_invert_layout_title">Inverter o layout da barra de navegação</string>
+    <string name="touch_sensitivity_title">Aumentar sensibilidade do toque</string>
+    <string name="touch_sensitivity_summary">Melhora o toque ao usar protetores de tela</string>
 </resources>
