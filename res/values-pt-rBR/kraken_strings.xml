@@ -15,8 +15,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="device_info_protected_single_press">Toque para mostrar informações</string>
-    <string name="kraken_stats_title">Kraken Estatísticas</string>
-    <string name="kraken_stats_summary">Apenas contando em quantos dispositivos rodamos</string>
     <string name="min_refresh_rate_title">Taxa de atualização mínima</string>
     <string name="max_refresh_rate_title">Taxa de atualização máxima</string>
     <string name="low_power_refresh_rate_title_custom">Taxa de atualização de baixa energia</string>
@@ -98,4 +96,7 @@
     <string name="status_bar_battery_percentage_default">Oculto (padrão)</string>
     <string name="status_bar_battery_percentage_text_inside">Dentro do ícone</string>
     <string name="status_bar_battery_percentage_text_next">Ao lado do ícone</string>
+    <string name="lockscreen_small_clock_title">Relógio pequeno na tela de bloqueio</string>
+    <string name="lockscreen_small_clock_summary">Não mude para o relógio grande quando não houver notificações</string>
+    <string name="navbar_invert_layout_title">Inverter o layout da barra de navegação</string>
 </resources>
